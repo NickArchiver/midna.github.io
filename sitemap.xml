@@ -9,7 +9,13 @@
       <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/fuck_you_midna.png</image:loc>
+      <image:loc>http://midnaisarealbitch.com/images/midna_gc_button.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/true_midna.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/midna_icon_2d.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -154,6 +160,54 @@
     </image:image>
     <image:image>
       <image:loc>http://midnaisarealbitch.com/images/verdict_saria.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://midnaisarealbitch.com/fuck-you-midna.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/fuck_you_midna.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://midnaisarealbitch.com/princess-ruto.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/ruto_child.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/ruto_adult.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/verdict_ruto.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://midnaisarealbitch.com/i-love-midna!!.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://midnaisarealbitch.com/why.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
     </image:image>
   </url>
 </urlset>
