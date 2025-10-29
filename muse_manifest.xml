@@ -1,0 +1,96 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="midnaisarealbitch.com" resolutions="1x" timestamp="1761709330454">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="519642193" ref="index"/>
+    <file name="but-reddit-said.css" crc="515141425" ref="but-reddit-said"/>
+    <file name="why-her-name-sucks.css" crc="303786930" ref="why-her-name-sucks"/>
+    <file name="404.css" crc="486497056" ref="404"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+    <file name="museutils.js" crc="3939489907" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+    <file name="require.js" crc="4177726516" ref="index:why-her-name-sucks:but-reddit-said:404"/>
+  </folder>
+  <folder name="images">
+    <file name="u145-4.png" crc="446453838" ref="index"/>
+    <file name="logo.gif" crc="16907705" seo="true" ref="index:why-her-name-sucks:but-reddit-said:404">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-her-name-sucks" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+    </file>
+    <file name="u159-4.png" crc="3770538400" ref="index"/>
+    <file name="u164-4.png" crc="3902998862" ref="index"/>
+    <file name="u167-4.png" crc="4289357008" ref="index"/>
+    <file name="u170-4.png" crc="115756480" ref="index"/>
+    <file name="u218-4.png" crc="419290570" ref="index"/>
+    <file name="u233-4.png" crc="4088547296" ref="index"/>
+    <file name="u138-4.png" crc="3856421480" ref="index"/>
+    <file name="back.jpg" crc="3937211460" ref="index:why-her-name-sucks:but-reddit-said:404">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-her-name-sucks" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+    </file>
+    <file name="u237-4.png" crc="403372779" ref="index"/>
+    <file name="u240-4.png" crc="139259076" ref="index"/>
+    <file name="u249-4.png" crc="3967416841" ref="index"/>
+    <file name="u254-4.png" crc="390667378" ref="index"/>
+    <file name="u257-4.png" crc="3914119902" ref="index"/>
+    <file name="u260-4.png" crc="3937119743" ref="index"/>
+    <file name="u263-4.png" crc="3996452044" ref="index"/>
+    <file name="u266-4.png" crc="291791416" ref="index"/>
+    <file name="u271-4.png" crc="4027353529" ref="why-her-name-sucks"/>
+    <file name="u337-7.png" crc="147279059" ref="why-her-name-sucks"/>
+    <file name="midna_dumb_name.gif" crc="362882479" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="u349-4.png" crc="436242610" ref="why-her-name-sucks"/>
+    <file name="u352-4.png" crc="4161605058" ref="why-her-name-sucks"/>
+    <file name="majora-27s_mask_artwork.gif" crc="3910786705" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="286939.gif" crc="16882858" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="u282-4.png" crc="3967416841" ref="why-her-name-sucks"/>
+    <file name="u270-4.png" crc="3856421480" ref="why-her-name-sucks"/>
+    <file name="u376-4.png" crc="500486782" ref="why-her-name-sucks"/>
+    <file name="u379-4.png" crc="121942599" ref="why-her-name-sucks"/>
+    <file name="u439-4.png" crc="4043685788" ref="but-reddit-said"/>
+    <file name="u499-4.png" crc="99809322" ref="but-reddit-said"/>
+    <file name="u502-4.png" crc="4167263066" ref="but-reddit-said"/>
+    <file name="u505-4.png" crc="3822642920" ref="but-reddit-said"/>
+    <file name="u508-4.png" crc="4056705938" ref="but-reddit-said"/>
+    <file name="u511-4.png" crc="3959068354" ref="but-reddit-said"/>
+    <file name="u514-4.png" crc="150563611" ref="but-reddit-said"/>
+    <file name="u517-4.png" crc="140850276" ref="but-reddit-said"/>
+    <file name="u529-4.png" crc="352680672" ref="but-reddit-said"/>
+    <file name="u532-4.png" crc="4046266384" ref="but-reddit-said"/>
+    <file name="u535-4.png" crc="3836413891" ref="but-reddit-said"/>
+    <file name="u544-4.png" crc="133994414" ref="but-reddit-said"/>
+    <file name="u545-4.png" crc="24650145" ref="but-reddit-said"/>
+    <file name="u546-4.png" crc="4235109328" ref="but-reddit-said"/>
+    <file name="hated-design-the-new-reddit-logo-on-mobile-what-the-fuck-is-v0-irffc4bc7u2e1.gif" crc="4014306079" seo="true" ref="but-reddit-said">
+      <caption webpage="but-reddit-said" alt=""/>
+    </file>
+    <file name="u442-4.png" crc="3967416841" ref="but-reddit-said"/>
+    <file name="u438-4.png" crc="3856421480" ref="but-reddit-said"/>
+    <file name="u579-4.png" crc="4093756905" ref="404"/>
+    <file name="u583-4.png" crc="4125133264" ref="404"/>
+    <file name="u639-4.png" crc="203351864" ref="404"/>
+    <file name="screen shot 2025-10-28 at 113302 pm.gif" crc="205306638" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
+    <file name="u582-4.png" crc="3967416841" ref="404"/>
+    <file name="u578-4.png" crc="3856421480" ref="404"/>
+    <file name="u654-4.png" crc="340529818" ref="but-reddit-said"/>
+  </folder>
+  <file name="index.html" crc="13733103" seo="true" mt="1761706114799" redirect="true"/>
+  <file name="why-her-name-sucks.html" crc="287322895" seo="true" mt="1761707774724" redirect="true"/>
+  <file name="but-reddit-said.html" crc="307916422" seo="true" mt="1761709325836" redirect="true"/>
+  <file name="404.html" crc="3908190183" seo="true" mt="1761709052253" redirect="true"/>
+</manifest>
